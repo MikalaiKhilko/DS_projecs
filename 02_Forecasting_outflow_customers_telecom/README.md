@@ -19,4 +19,4 @@
 - Sklearn
 - Xgboost
 - Lightgbm
-- GridSearchCV
+- Подбор гиперпараметров моделей GridSearchCV
