@@ -18,11 +18,12 @@
 
 Инструменты, используемые в проекте:
 
-Pandas
-Matplotlib
-Seaborn
-Sklearn
-Statsmodels
-Xgboost
-Lightgbm
-Подбор гиперпараметров моделей RandomizedSearchCV
+- Pandas
+- Matplotlib
+- Seaborn
+- Sklearn
+- Numpy
+- Nltk
+- Tf-idf
+- Lightgbm
+- Подбор гиперпараметров моделей RandomizedSearchCV
