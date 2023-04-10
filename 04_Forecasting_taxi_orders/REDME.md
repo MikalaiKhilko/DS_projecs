@@ -16,5 +16,7 @@ LGBMRegressor;
 - Matplotlib
 - Seaborn
 - Sklearn
-- Bootstrap
-- LightGBM
+- Чgboost
+- Lightgbm
+- Подбор гиперпараметров моделей RandomizedSearchCV
+
