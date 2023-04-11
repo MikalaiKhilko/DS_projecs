@@ -14,8 +14,8 @@
 |[08_Рекомендация тарифов](https://github.com/MikalaiKhilko/DS_projecs/tree/main/08_Tariff_recommendation)|Cоздание модели машинного обучения, анализирующей поведение клиентов, с целью предложения более выгодного тарифа|pandas, matplotlib, numpy, seaborn|
 |[09_Определение стоимости подержанных автомобилей](https://github.com/MikalaiKhilko/DS_projecs/tree/main/09_Determining_cost_cars)|Создание модели машинного обучения для определения стоимости подержанных автомобилей по их характеристикам|pandas, matplotlib, numpy, seaborn, sklearn, lightgbm, xgboost|
 |[10_Защита персональных данных клиентов страховой компании](https://github.com/MikalaiKhilko/DS_projecs/tree/main/10_Protection_personal_data_clients)|Разработка такого метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию, и чтобы в результате преобразования качество моделей не ухудшилось|pandas, matplotlib, numpy, seaborn, sklearn|
-|[11_Прогнозирование оттока клиентов банка](https://github.com/MikalaiKhilko/DS_projecs/tree/main/11_Forecasting_outflow_bank_customers.)|Создание модели машинного обучения, прогнозирующей, уйдет клиент из банка в ближайшее время или нет|pandas, matplotlib, seaborn, sklearn|
-
+|[11_Прогнозирование оттока клиентов банка](https://github.com/MikalaiKhilko/DS_projecs/tree/main/11_Forecasting_outflow_bank_customers.)|Создание модели машинного обучения, прогнозирующей, уйдет клиент из банка в ближайшее время или нет|pandas, matplotlib, seaborn, numpy, sklearn|
+|[11_Прогнозирование оттока клиентов банка]|Создание модели машинного обучения, прогнозирующей, уйдет клиент из банка в ближайшее время или нет|pandas, matplotlib, seaborn, numpy, sklearn|
 
 
 
