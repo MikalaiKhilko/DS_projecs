@@ -17,7 +17,7 @@
 |[11_Прогнозирование оттока клиентов банка](https://github.com/MikalaiKhilko/DS_projecs/tree/main/11_Forecasting_outflow_bank_customers.)|Создание модели машинного обучения, прогнозирующей, уйдет клиент из банка в ближайшее время или нет|pandas, matplotlib, seaborn, numpy, sklearn|
 |[12_Исследование надежности заемщиков](https://github.com/MikalaiKhilko/DS_projecs/tree/main/12_Borrower_reliability_study)|Исследование факторов, влияющих на возврат/невозврат кредита в срок для создания модели кредитного скоринга|pandas|
 |[13_Исследование продаж компьютерных игр](https://github.com/MikalaiKhilko/DS_projecs/tree/main/13_Research_of_computer_games)|Анализ рынка игр и платформ в Европе, Северной Америке и Японии для планирования рекламной кампании|pandas, matplotlib, seaborn, numpy, scipy|
-|[13_Исследование объявлений о продаже квартир]|Анализ рынка вторичной недвижимости в Санкт-Петерурге и Ленинградской области, выявление аномалий для создания модели антифрода|pandas, matplotlib, seaborn, numpy, scipy|
+|[13_Исследование объявлений о продаже квартир](https://github.com/MikalaiKhilko/DS_projecs/tree/main/14_Research_of_apartment_advertisements)|Анализ рынка вторичной недвижимости в Санкт-Петерурге и Ленинградской области, выявление аномалий для создания модели антифрода|pandas, matplotlib, seaborn, numpy, scipy|
 
 
 
