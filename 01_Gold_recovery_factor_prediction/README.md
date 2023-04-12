@@ -14,6 +14,3 @@
 - Seaborn
 - Sklearn
 - Подбор гиперпараметров моделей RandomizedSearchCV
-
-
-
